@@ -1,8 +1,9 @@
 ## Backend of a basic application
+
 This applications lets you-
--Signup 
--Signin using jwt
--Providing details of other users
+- Signup 
+- Signin using jwt
+- Provides details of other users
 
 Tech Stack used: Nodejs, express, MongoDB, Mongoose, jwt. 
 
